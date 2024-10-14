@@ -1,0 +1,14 @@
+asgiref==3.8.1
+Django==5.1.2
+imageio==2.36.0
+imutils==0.5.4
+lazy_loader==0.4
+networkx==3.4.1
+numpy==2.1.2
+opencv-python==4.10.0.84
+packaging==24.1
+pillow==10.4.0
+scikit-image==0.24.0
+scipy==1.14.1
+sqlparse==0.5.1
+tifffile==2024.9.20
